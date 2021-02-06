@@ -125,6 +125,3 @@ def formata_alteracao_de_tempo(diff):
     # print(tempo)
     
     return tempo
-
-
-# https://en.wikipedia.org/wiki/SubRip
